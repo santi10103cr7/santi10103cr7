@@ -1,10 +1,9 @@
 ### Santiago
 
-- 👋 Hi, I’m @santi10103cr7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+*Maluma beybi*
+_ayy_
+
+
 
 <!---
 santi10103cr7/santi10103cr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
