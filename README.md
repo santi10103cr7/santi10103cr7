@@ -1,12 +1,12 @@
 ### Santiago
 
-*Maluma beybi*
+*Cloud Computing (GitHub)*
 _ayy_
-![Alt](https://d2yoo3qu6vrk5d.cloudfront.net/images/20230501215434/disencc83o-sin-titulo-8.jpg)
+![Alt](https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq)
 
 - Soy Santiago Luna
-- Tengo 17 años , 7 como el bicho siuu
-- Me re gusta el sex, se puede ver por la imagen de arriba
+- Tengo 17 años
+- Estoy aprendiendo Java y Phyton 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=santi10103cr7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
