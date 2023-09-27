@@ -132,6 +132,11 @@ Eclipse 2023-09 R
 * *Santiago Luna* 
 * *Nicolas Maya*
 * *Julian Ceballos*
+ 
+## Licencia
+
+Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
+
 
 
 
